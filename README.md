@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/67/ba/e3/67bae3d1e0e6cf660ee6d259b88d2a76.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?vcenter=true&font=Fira+Code&size=45&pause=1000&color=ACF71A&width=570&height=200&lines=HI!+I'm+Yevin+Medonza)](https://git.io/typing-svg)
-<h3 align="center">A passionate developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer from Sri Lanka</h3><br><br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/9e/28/f6/9e28f6a8caf98f24f5b14ad0ec4d03bf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenmedonza&label=Profile%20views&color=0e75b6&style=flat" alt="shenmedonza" /> </p>
