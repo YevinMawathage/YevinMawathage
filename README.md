@@ -1,16 +1,35 @@
-### Hi there 👋
+[![MasterHead](https://drive.google.com/file/d/112dHWdOwGl7ZrvHYWlLwveiH-9ros3UT/view?usp=sharing)]
+<h1 align="center">Hi 👋, I'm Shen Medonza</h1>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif">
 
-<!--
-**ShenMedonza/ShenMedonza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shenmedonza&label=Profile%20views&color=0e75b6&style=flat" alt="shenmedonza" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/yevinmedonza" target="blank"><img src="https://img.shields.io/twitter/follow/yevinmedonza?logo=twitter&style=for-the-badge" alt="yevinmedonza" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, C, Full stack development**
+
+- 📫 How to reach me **yevinmedonza2003@gmail.com**
+
+- ⚡ Fun fact **I am a nerd**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/yevinmedonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yevinmedonza" height="20" width="30" /></a>
+<a href="https://twitter.com/yevinmedonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yevinmedonza" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/yevin medonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yevin medonza" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/yevin medonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yevin medonza" height="20" width="30" /></a>
+<a href="https://fb.com/yevin shane medonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yevin shane medonza" height="20" width="30" /></a>
+<a href="https://instagram.com/iamshen._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamshen._" height="20" width="30" /></a>
+<a href="https://dribbble.com/yevinmedonza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="yevinmedonza" height="20" width="30" /></a>
+<a href="https://medium.com/@yevinmedozna2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yevinmedozna2003" height="20" width="30" /></a>
+<a href="https://discord.gg/RaIZEL#7747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RaIZEL#7747" height="20" width="30" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenmedonza&show_icons=true&locale=en" alt="shenmedonza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenmedonza&" alt="shenmedonza" /></p>
