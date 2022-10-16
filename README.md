@@ -16,6 +16,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312pvvm2cghozc4tfsaiz4ebkxe4&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 <h3 align="left">Connect with me:</h3>
