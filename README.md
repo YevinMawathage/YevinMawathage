@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/67/ba/e3/67bae3d1e0e6cf660ee6d259b88d2a76.gif)
 
-<h1 align="center">Hi 👋, I'm Yevin Medonza</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?vcenter=true&font=Fira+Code&size=45&pause=1000&color=ACF71A&width=570&height=200&lines=HI!+I'm+Yevin+Medonza)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/9e/28/f6/9e28f6a8caf98f24f5b14ad0ec4d03bf.gif">
 
@@ -13,6 +13,10 @@
 - 📫 How to reach me **yevinmedonza2003@gmail.com**
 
 - ⚡ Fun fact **I am a nerd**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312pvvm2cghozc4tfsaiz4ebkxe4&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,8 +31,12 @@
 <a href="https://discord.gg/RaIZEL#7747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RaIZEL#7747" height="20" width="30" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShenMedonza&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenmedonza&show_icons=true&locale=en" alt="shenmedonza" /></p>
