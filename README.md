@@ -1,7 +1,8 @@
-[![MasterHead](https://drive.google.com/file/d/112dHWdOwGl7ZrvHYWlLwveiH-9ros3UT/view?usp=sharing)]
-<h1 align="center">Hi 👋, I'm Shen Medonza</h1>
+![MasterHead](https://i.pinimg.com/originals/67/ba/e3/67bae3d1e0e6cf660ee6d259b88d2a76.gif)
+
+<h1 align="center">Hi 👋, I'm Yevin Medonza</h1>
 <h3 align="center">A passionate developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/bVm05NUoyF0AAAAC/bokuno-hero-academia-izuku.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/9e/28/f6/9e28f6a8caf98f24f5b14ad0ec4d03bf.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenmedonza&label=Profile%20views&color=0e75b6&style=flat" alt="shenmedonza" /> </p>
 
