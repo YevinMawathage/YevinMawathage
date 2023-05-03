@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/67/ba/e3/67bae3d1e0e6cf660ee6d259b88d2a76.gif](https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+[![MasterHead](https://i.pinimg.com/originals/67/ba/e3/67bae3d1e0e6cf660ee6d259b88d2a76.gif)]
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?vcenter=true&font=Fira+Code&size=45&pause=1000&color=ACF71A&width=570&height=200&lines=HI!+I'm+Yevin+Medonza)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from Sri Lanka</h3><br><br>
