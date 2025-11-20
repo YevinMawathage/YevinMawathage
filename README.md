@@ -74,7 +74,7 @@ What I'm Up To
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yevinmawathage&theme=dark&hide_border=true" alt="yevinmawathage" />
+<img src="https://streak-stats.demolab.com/?user=yevinmawathage&theme=dark&hide_border=true" alt="yevinmawathage" />
 </p>
 
 <p align="center">
@@ -82,7 +82,7 @@ What I'm Up To
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yevinmawathage&theme=github-dark&hide_border=true&area=true" alt="yevinmawathage" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=yevinmawathage&theme=github-compact&hide_border=true&area=true" alt="yevinmawathage" />
 </p>
 
 <p align="center">
