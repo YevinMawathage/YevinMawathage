@@ -33,6 +33,10 @@ What I'm Up To
 <a href="https://www.hackerrank.com/@shenxyevin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shenxyevin" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevinmawathage&theme=github_dark" alt="yevinmawathage" />
+</p>
+
 ![snake gif](https://github.com/YevinMawathage/YevinMawathage/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -79,6 +83,4 @@ What I'm Up To
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yevinmawathage&theme=github-dark&hide_border=true&area=true" alt="yevinmawathage" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yevinmawathage&theme=github_dark" alt="yevinmawathage" />
-</p>
+
