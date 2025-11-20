@@ -35,8 +35,6 @@ What I'm Up To
 
 ![snake gif](https://github.com/YevinMawathage/YevinMawathage/blob/output/github-snake-dark.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yevinmawathage&theme=onedark)](https://github.com/yevinmawathage/github-profile-trophy)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/> </a> &nbsp;
