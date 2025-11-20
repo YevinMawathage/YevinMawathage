@@ -74,7 +74,7 @@ What I'm Up To
 </p>
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yevinmawathage)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=yevinmawathage&theme=radical" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
