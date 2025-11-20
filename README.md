@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yevin Mawathage</h1>
 <h3 align="center">A passionate developer</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yevinmawathage&label=Profile%20views&color=0e75b6&style=flat](https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?semt=ais_hybrid&w=740&q=80)" alt="yevinmawathage" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=yevinmawathage&label=Profile%20views&color=0e75b6&style=flat](https://vijaygupta.vercel.app/assets/img/112.webp)" alt="yevinmawathage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yevinmawathage" alt="yevinmawathage" /></a> </p>
 
 - 🔭 I’m currently working on **DevOps Project**
 
@@ -25,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yevinmawathage&show_icons=true&locale=en" alt="yevinmawathage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yevinmawathage&" alt="yevinmawathage" /></p>
-
