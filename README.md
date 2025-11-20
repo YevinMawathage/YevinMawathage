@@ -5,10 +5,8 @@
   <img src="https://i.ibb.co/4qQ938X/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner.png" alt="White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner" border="0" alt="Banner" width="800"/>
 </p>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=yevinmawathage&label=Profile%20views&color=0e75b6&style=flat" alt="yevinmawathage" /> 
+<p align="center"> 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/yevinmawathage?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
-
 </p>
 
 <h2 align="center">About Me</h2>
@@ -36,6 +34,8 @@ What I'm Up To
 </p>
 
 ![snake gif](https://github.com/YevinMawathage/YevinMawathage/blob/output/github-snake-dark.svg)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yevinmawathage&theme=onedark)](https://github.com/yevinmawathage/github-profile-trophy)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
