@@ -7,11 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yevinmawathage&label=Profile%20views&color=0e75b6&style=flat" alt="yevinmawathage" /> </p>
 
-- 🔭 I’m currently working on **DevOps Project**
-
-- 🌱 I’m currently learning **DevOps related technologies**
-
-- 📫 How to reach me **yevinmawathagge2003@gmail.com**
+## About Me
+I'm a passionate developer with a strong focus on modern technologies and continuous learning. Currently, I'm diving deep into DevOps methodologies and cloud technologies to enhance my skills in automation, containerization, and infrastructure management. I enjoy building scalable solutions and exploring new tools that can improve development workflows.
+My journey in technology spans across various programming languages and frameworks, and I'm always excited to take on new challenges that push the boundaries of what I can create.
+### What I'm Up To
+- 🔭 Currently working on **DevOps Projects** and cloud infrastructure
+- 🌱 Learning **DevOps technologies** including Docker, Kubernetes, CI/CD pipelines
+- 💻 Exploring **cloud platforms** like AWS and modern development practices
+- 🚀 Building **automation tools** and improving deployment processes
+- 📫 Reach me at **yevinmawathagge2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
