@@ -67,6 +67,12 @@ What I'm Up To
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yevinmawathage&show_icons=true&locale=en" alt="yevinmawathage" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yevinmawathage&" alt="yevinmawathage" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yevinmawathage&show_icons=true&locale=en&theme=dark&hide_border=true" alt="yevinmawathage" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yevinmawathage&theme=dark&hide_border=true" alt="yevinmawathage" />
+</p>
