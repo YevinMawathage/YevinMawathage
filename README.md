@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yevinmawathage&label=Profile%20views&color=0e75b6&style=flat" alt="yevinmawathage" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=yevinmawathage](https://vijaygupta.vercel.app/assets/img/112.webp)" alt="yevinmawathage" /></a> </p>
-
 - 🔭 I’m currently working on **DevOps Project**
 
 - 🌱 I’m currently learning **DevOps related technologies**
