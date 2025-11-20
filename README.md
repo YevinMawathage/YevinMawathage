@@ -74,15 +74,11 @@ What I'm Up To
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=yevinmawathage&theme=dark&hide_border=true" alt="yevinmawathage" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yevinmawathage)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yevinmawathage&layout=compact&theme=dark&hide_border=true" alt="yevinmawathage" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=yevinmawathage&theme=github-compact&hide_border=true&area=true" alt="yevinmawathage" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yevinmawathage&theme=github-dark&hide_border=true&area=true" alt="yevinmawathage" />
 </p>
 
 <p align="center">
