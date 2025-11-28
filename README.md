@@ -19,7 +19,7 @@ What I'm Up To
 - 🌱 Learning **DevOps technologies** including Docker, Kubernetes, CI/CD pipelines
 - 💻 Exploring **cloud platforms** like AWS and modern development practices
 - 🚀 Building **automation tools** and improving deployment processes
-- 📫 Reach me at **yevinmawathagge2003@gmail.com**
+- 📫 Reach me at **yevinmawathage2003@gmail.com**
 
 
 ## 🌐 Socials:
