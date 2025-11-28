@@ -19,8 +19,6 @@ I'm a passionate developer with a strong focus on modern technologies and contin
 ![](https://nirzak-streak-stats.vercel.app/?user=yevinmawathage&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yevinmawathage&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yevinmawathage&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=yevinmawathage&limit=5&theme=radical&combine_all_yearly_contributions=true)
