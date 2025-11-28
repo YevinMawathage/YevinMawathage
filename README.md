@@ -5,8 +5,21 @@
   <img src="https://i.ibb.co/4qQ938X/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner.png" alt="White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner" border="0" alt="Banner" width="800"/>
 </p>
 
-# 💫 About Me:
-I'm a passionate developer with a strong focus on modern technologies and continuous learning. Currently, I'm diving deep into DevOps methodologies and cloud technologies to enhance my skills in automation, containerization, and infrastructure management. I enjoy building scalable solutions and exploring new tools that can improve development workflows.<br>My journey in technology spans across various programming languages and frameworks, and I'm always excited to take on new challenges that push the boundaries of what I can create.<br><br>What I'm Up To<br>🔭 Currently working on DevOps Projects and cloud infrastructure<br>🌱 Learning DevOps technologies including Docker, Kubernetes, CI/CD pipelines<br>💻 Exploring cloud platforms like AWS and modern development practices<br>🚀 Building automation tools and improving deployment processes<br>📫 Reach me at yevinmawathagge2003@gmail.com
+<h2 align="center">About Me</h2>
+
+<p align="justify">
+I'm a passionate developer with a strong focus on modern technologies and continuous learning. Currently, I'm diving deep into DevOps methodologies and cloud technologies to enhance my skills in automation, containerization, and infrastructure management. I enjoy building scalable solutions and exploring new tools that can improve development workflows.
+</p>
+<p align="justify">
+My journey in technology spans across various programming languages and frameworks, and I'm always excited to take on new challenges that push the boundaries of what I can create.
+</p>
+
+What I'm Up To
+- 🔭 Currently working on **DevOps Projects** and cloud infrastructure
+- 🌱 Learning **DevOps technologies** including Docker, Kubernetes, CI/CD pipelines
+- 💻 Exploring **cloud platforms** like AWS and modern development practices
+- 🚀 Building **automation tools** and improving deployment processes
+- 📫 Reach me at **yevinmawathagge2003@gmail.com**
 
 
 ## 🌐 Socials:
