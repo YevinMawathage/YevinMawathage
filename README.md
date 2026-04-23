@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <img src=<img src="https://ibb.co/v6sw7WJ2" border="0" alt="Banner" width="1000"/>
+  <img src=<img src="https://ibb.co/v6sw7WJ2" border="0" alt="Banner" width="800"/>
 </p>
 
 <h2 align="center">About Me</h2>
