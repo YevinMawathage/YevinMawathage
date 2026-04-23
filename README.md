@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co/4qQ938X/White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner.png" alt="White-and-Blue-Minimalist-Freelance-Web-Developer-Linked-In-Banner" border="0" alt="Banner" width="800"/>
+  <img src=<img src="https://i.ibb.co/Mx82YHRq/YEVIN-MAWATHAGE-web-developer-graphic-designer-Video-editor.png" border="0" alt="Banner" width="1000"/>
 </p>
 
 <h2 align="center">About Me</h2>
